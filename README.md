@@ -1,2 +1,2 @@
 #zajęcia z PSI2024
-pyatnia stosowałam takie jak były w przykładach w zadaniach
+pytania stosowałam takie jak były w przykładach w zadaniach
